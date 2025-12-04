@@ -1,0 +1,25 @@
+# CoEvolution Toolkit - Core Dependencies
+# ==========================================
+
+# Numerical computing
+numpy>=1.21.0,<2.0.0
+scipy>=1.7.0,<2.0.0
+
+# Visualization
+matplotlib>=3.4.0,<4.0.0
+
+# Optional but recommended
+jupyter>=1.0.0
+notebook>=6.0.0
+ipywidgets>=8.0.0
+
+# Development (optional, install with: pip install -e ".[dev]")
+# pytest>=7.0
+# pytest-cov>=4.0
+# black>=23.0
+# flake8>=6.0
+# mypy>=1.0
+
+# Documentation (optional, install with: pip install -e ".[dev]")
+# sphinx>=5.0
+# sphinx-rtd-theme>=1.0
